@@ -65,10 +65,9 @@ cd klipper
 
 ![FW](/img/Printers/Artillery/X2/FW01.png)
 
-Run the `make clean` and `make` command. This will generate the firmware.
+Run the `make menuconfig` command to access the firmware configuration parameters.
 ```
-make clean
-make
+make menuconfig
 ```
 
 ![FW](/img/Printers/Artillery/X2/FW02.png)
@@ -84,6 +83,10 @@ Confirm with Y
 ![FW](/img/Printers/Artillery/X2/FW04.png)
 
 Run the `make clean` and `make` command. This will generate the firmware.
+```
+make clean
+make
+```
 
 #  Switch printer to DFU mode
 
