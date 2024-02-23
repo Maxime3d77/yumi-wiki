@@ -124,6 +124,7 @@ You should have a device in DFU mode.
 Download the Sidewinder X2 configuration files from the following link:
 
 Printer.cfg: https://github.com/Yumi-Lab/yumi-wiki/blob/main/Klipper/Artillery/X2/printer.cfg
+
 Macros.cfg: https://github.com/Yumi-Lab/yumi-wiki/blob/main/Klipper/Artillery/X2/macros.cfg
 
 # Mainsail Web interface
